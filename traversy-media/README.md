@@ -1,6 +1,6 @@
 # Task Tracker App
 
-Tutorial dari [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8). It includes the react ui as well as JSON-server for our mock backend
+Tutorial dari [Traversy Media](https://www.youtube.com/watch?v=w7ejDZ8SWv8). It includes the react ui as well as JSON-server for our mock backend
 
 ## Usage
 
