@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Beli Nasi Uduk",
+      "day": "Sabtu jam 7 pagi",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Mandiin kucing oren",
+      "day": "Sabtu jam 10 siang",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Belanja ke supermarket",
+      "day": "Sabtu jam 1 siang",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Olahraga ringan",
+      "day": "Sabtu jam 4 sore",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Bikin ayam panggang buat dinner",
+      "day": "Sabtu jam 5 sore",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
